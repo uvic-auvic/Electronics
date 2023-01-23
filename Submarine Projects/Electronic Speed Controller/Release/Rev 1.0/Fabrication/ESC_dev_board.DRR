@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: ESC_dev_board.PcbDoc   2020-03-03  3:16:59 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : ESC_dev_board.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.305mm)                                           Round             14        PTH        0.00inch (0.00mm)
+T2      20mil (0.508mm)                                           Round             124       PTH        0.00inch (0.00mm)
+T3      35mil (0.9mm)                                             Round             8         PTH        0.00inch (0.00mm)
+T4      55mil (1.4mm)                                             Round             3         PTH        0.00inch (0.00mm)
+T5      59mil (1.5mm)                                             Round             2         PTH        0.00inch (0.00mm)
+T6      126mil (3.2mm)                                            Round             4         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              155
+
+Total Processing Time (hh:mm:ss) : 00:00:00

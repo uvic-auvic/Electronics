@@ -1,0 +1,53 @@
+Follow this procedure before releasing files. Confirm every action with your initials and date. 
+IF ANY CHANGES NEED TO BE DONE, START THE PROCEDURE FROM BEGINNING!
+
+The procedure needs to be executed in order as defined below. Start from number 1
+-----------------------------------------------------------------------------------------------
+
+1.	Right click on the project -> compile PCB project
+I confirm the project compiles with no errors:
+Initials here:
+
+2.	Run Design -> Update PCB Document
+I confirm, there are no differences between schematic and PCB:
+Initials here:
+
+3.	Impedance (check design rules)
+I confirm I have updated and checked the track width/gap to match the required impedance (e.g 55 ohm)
+NOTE: Manufacturers have different track width/gap requirements.
+Initial here:
+
+4.	Run Tools -> Polygon Pours -> Rebuild All
+I confirm, all polygons have been repoured:
+Initial here:
+
+5.	Run Tools -> Design Rule Check -> Run Design Rule Check
+I confirm, I have checked the Design Rule Output File:
+Initial here:
+
+6.	Gerber Check
+I confirm I have copied and visually checked gerber files placed in \PCB manufacturing\Gerber Output\...
+NOTE: the outline of the board must be manually drawn on one of the mechanical layers.
+Initial here:
+
+7.	Other Files:
+I confirm I have copied and checked files placed in PCB manufacturing\...
+Initial here:
+
+8.	Order PCB:
+I confirm the PCB has been ordered.
+Initial here:
+
+----------------------------------------------------------------------------------------------------
+Additional files:
+
+- Mechanical Drawing (board dimensions, hole positions, ...)
+- TOP and BOTTOM Assembly Drawing (Component position with reference designator)
+- TOP and BOTTOM View ( Show board outline, assembly layer, TOP + BOTTOM layers)
+- BOM (grouped by component type)
+- Component reference BOM
+- Pick and Place
+- TOP + BOTTOM Layer and TOP + BOTTOM Paste Gerber Files (for stencil)
+- PDF 3D model
+
+--------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,3 @@
+[submodule "Templates/Rules and Stackups/jlcpcb-design-rules-stackups"]
+	path = Templates/Rules and Stackups/jlcpcb-design-rules-stackups
+	url = https://github.com/ayberkozgur/jlcpcb-design-rules-stackups.git
