@@ -1,3 +1,6 @@
 [submodule "Templates/Rules and Stackups/jlcpcb-design-rules-stackups"]
 	path = Templates/Rules and Stackups/jlcpcb-design-rules-stackups
 	url = https://github.com/ayberkozgur/jlcpcb-design-rules-stackups.git
+[submodule "Templates/Rules and Stackups/Altium-PCBWay-Stackups"]
+	path = Templates/Rules and Stackups/Altium-PCBWay-Stackups
+	url = https://github.com/alex-z-charalampidis/Altium-PCBWay-Stackups.git
